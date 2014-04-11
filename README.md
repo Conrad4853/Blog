@@ -1,4 +1,0 @@
-Blog
-====
-
-Assignment 1
